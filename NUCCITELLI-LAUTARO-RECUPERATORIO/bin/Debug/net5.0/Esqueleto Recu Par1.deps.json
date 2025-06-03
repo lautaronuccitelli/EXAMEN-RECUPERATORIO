@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Esqueleto Recu Par1/1.0.0": {
+        "runtime": {
+          "Esqueleto Recu Par1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esqueleto Recu Par1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

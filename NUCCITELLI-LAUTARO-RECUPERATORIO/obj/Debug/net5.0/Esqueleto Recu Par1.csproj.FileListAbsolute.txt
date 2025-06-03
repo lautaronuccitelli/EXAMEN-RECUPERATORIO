@@ -1,0 +1,31 @@
+C:\Users\PC\source\repos\Esqueleto Recu Par1\bin\Debug\net5.0\Esqueleto Recu Par1.exe
+C:\Users\PC\source\repos\Esqueleto Recu Par1\bin\Debug\net5.0\Esqueleto Recu Par1.deps.json
+C:\Users\PC\source\repos\Esqueleto Recu Par1\bin\Debug\net5.0\Esqueleto Recu Par1.runtimeconfig.json
+C:\Users\PC\source\repos\Esqueleto Recu Par1\bin\Debug\net5.0\Esqueleto Recu Par1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Esqueleto Recu Par1\bin\Debug\net5.0\Esqueleto Recu Par1.dll
+C:\Users\PC\source\repos\Esqueleto Recu Par1\bin\Debug\net5.0\Esqueleto Recu Par1.pdb
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.AssemblyInfo.cs
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.dll
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\refint\Esqueleto Recu Par1.dll
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.pdb
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\Esqueleto Recu Par1.genruntimeconfig.cache
+C:\Users\PC\source\repos\Esqueleto Recu Par1\obj\Debug\net5.0\ref\Esqueleto Recu Par1.dll
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\Esqueleto Recu Par1.exe
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\Esqueleto Recu Par1.deps.json
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\Esqueleto Recu Par1.runtimeconfig.json
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\Esqueleto Recu Par1.runtimeconfig.dev.json
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\Esqueleto Recu Par1.dll
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\ref\Esqueleto Recu Par1.dll
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\bin\Debug\net5.0\Esqueleto Recu Par1.pdb
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.csproj.AssemblyReference.cache
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.AssemblyInfoInputs.cache
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.AssemblyInfo.cs
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.csproj.CoreCompileInputs.cache
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.dll
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\ref\Esqueleto Recu Par1.dll
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.pdb
+E:\NUCCITELLI-LAUTARO-RECUPERATORIO\obj\Debug\net5.0\Esqueleto Recu Par1.genruntimeconfig.cache

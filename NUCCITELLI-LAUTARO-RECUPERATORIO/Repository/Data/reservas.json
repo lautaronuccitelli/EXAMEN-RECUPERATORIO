@@ -1,0 +1,32 @@
+[
+  {
+    "client": {
+      "Name": "a",
+      "LastName": "b",
+      "ID": "2",
+      "Email": "@"
+    },
+    "destinationList": [
+      {
+        "Name": "w",
+        "BasePrice": 2,
+        "Country": "e"
+      }
+    ]
+  },
+  {
+    "client": {
+      "Name": "a",
+      "LastName": "b",
+      "ID": "3",
+      "Email": "@gmail.com"
+    },
+    "destinationList": [
+      {
+        "Name": "w",
+        "BasePrice": 4,
+        "Country": "f"
+      }
+    ]
+  }
+]
