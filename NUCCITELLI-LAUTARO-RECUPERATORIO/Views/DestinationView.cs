@@ -42,6 +42,7 @@ namespace Views
                     return null;
                     Console.ResetColor();
                 }
+            
                 Console.WriteLine("Do you want to add a new destination (y/n)");
                 input = getValidation().ToLower();
             } while (input == "y");
